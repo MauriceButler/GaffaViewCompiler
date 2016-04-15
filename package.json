@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaffa-tape/GaffaViewCompiler.git"
+    "url": "git+https://github.com/gaffa-tape/GaffaViewCompiler.git"
   },
   "keywords": [
     "gaffa",
@@ -23,11 +23,14 @@
     "commander": "2.0.x",
     "gaffa": "0.x.x",
     "browserify": "2.25.x",
-    "gel-transform" : "0.x.x"
+    "gel-transform": "0.x.x"
   },
-  "readmeFilename": "readme.md",
   "preferGlobal": "true",
   "bin": {
     "gvc": "index.js"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/gaffa-tape/GaffaViewCompiler/issues"
+  },
+  "homepage": "https://github.com/gaffa-tape/GaffaViewCompiler#readme"
 }
