@@ -1,6 +1,6 @@
 {
   "name": "gaffaviewcompiler",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Gaffa View Compiler",
   "main": "index.js",
   "scripts": {
